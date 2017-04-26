@@ -1,6 +1,6 @@
 # npmdoc-five
 
-#### api documentation for  [five (v0.8.0)](https://github.com/jackdcrawford/five)  [![npm package](https://img.shields.io/npm/v/npmdoc-five.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-five) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-five.svg)](https://travis-ci.org/npmdoc/node-npmdoc-five)
+#### basic api documentation for  [five (v0.8.0)](https://github.com/jackdcrawford/five)  [![npm package](https://img.shields.io/npm/v/npmdoc-five.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-five) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-five.svg)](https://travis-ci.org/npmdoc/node-npmdoc-five)
 
 #### Gives you five
 
@@ -56,7 +56,8 @@
     "scripts": {
         "test": "node test && echo ✔"
     },
-    "version": "0.8.0"
+    "version": "0.8.0",
+    "bin": {}
 }
 ```
 
